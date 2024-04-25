@@ -8,11 +8,13 @@ Below are the links to the questions and their corresponding marking scheme answ
 
 ### Questions
 
-1. [Question 1](https://github.com/vindiw/2210-sample-questions/blob/main/q1.md) - A scenario involving a wood flooring company.
+1. [Question 1](https://github.com/vindiw/2210-sample-questions/blob/main/q1.md) - A scenario involving a local textile store.
+2. [Question 2](https://github.com/vindiw/2210-sample-questions/blob/main/q2.md) - A scenario involving a car rental service.
 
 ### Marking Schemes
 
 1. [Marking Scheme 1](https://github.com/vindiw/2210-sample-questions/blob/main/ms1.md) - Answers and explanations for Question 1.
+2. [Marking Scheme 2](https://github.com/vindiw/2210-sample-questions/blob/main/ms2.md) - Answers and explanations for Question 2.
 
 ## How to Use This Repository
 
